@@ -18,7 +18,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Book Bay Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyErricsson, Motorola web novel" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- start menu -->
 <link href="css/memenu.css" rel="stylesheet" type="text/css" media="all" />
@@ -113,11 +113,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="h_nav">
 									<h4>Footwear</h4>
 									<ul>
-										<li><a href="products.php">Formal Shoes</a></li>
+										<li><a href="products.php">Formal Religion</a></li>
 										<li><a href="products.php">Boots</a></li>
-										<li><a href="products.php">Sports Shoes</a></li>
-										<li><a href="products.php">Casual Shoes</a></li>
-										<li><a href="products.php">Running Shoes</a></li>
+										<li><a href="products.php">Sports Religion</a></li>
+										<li><a href="products.php">Casual Religion</a></li>
+										<li><a href="products.php">Running Religion</a></li>
 										<li><a href="products.php">Sneakers</a></li>
 										<li><a href="products.php">Loafers</a></li>
 										<li><a href="products.php">Slippers</a></li>
@@ -173,9 +173,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<ul>
 										<li><a href="products.php">Heels</a></li>
 										<li><a href="products.php">Flats</a></li>
-										<li><a href="products.php">Sports Shoes</a></li>
-										<li><a href="products.php">Casual Shoes</a></li>
-										<li><a href="products.php">Running Shoes</a></li>
+										<li><a href="products.php">Sports Religion</a></li>
+										<li><a href="products.php">Casual Religion</a></li>
+										<li><a href="products.php">Running Religion</a></li>
 										<li><a href="products.php">Wedges</a></li>
 										<li><a href="products.php">Boots</a></li>
 										<li><a href="products.php">Pumps</a></li>
