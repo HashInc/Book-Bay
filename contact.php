@@ -72,12 +72,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="head-top">
 				<div class="col-md-2 number">
-					<span><i class="glyphicon glyphicon-phone"></i>085 596 234</span>
+					<span><i class="glyphicon glyphicon-phone"></i>+91 9176 156512</span>
 				</div>
 	<div class="col-md-8 h_menu4">
 				<ul class="memenu skyblue">
 					  <li class=" grid"><a  href="index.php">Home</a></li>	
-				      <li><a  href="#">Men</a>
+				      <li><a  href="#">Novels & Fictions</a>
 				      	<div class="mepanel">
 						<div class="row">
 							<div class="col1">
@@ -135,7 +135,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						  </div>
 						</div>
 					</li>
-				    <li class="grid"><a  href="#">	Women</a>
+				    <li class="grid"><a  href="#">	College </a>
 					  	<div class="mepanel">
 						<div class="row">
 							<div class="col1">
@@ -193,8 +193,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						  </div>
 						</div>
 			    </li>
-				<li><a  href="typo.php">Blog</a></li>				
-				<li><a class="color6" href="contact.php">Conact</a></li>
+				<li><a  href="typo.php">School</a></li>				
+				<li><a class="color6" href="contact.php">Other</a></li>
 			  </ul> 
 			</div>
 				<div class="col-md-2 search">		
@@ -304,7 +304,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 		<div class="footer-top">
 			<div class="col-md-8 top-footer">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83998.91163207516!2d2.3470599!3d48.85885894999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C+France!5e0!3m2!1sen!2sin!4v1436340519910" allowfullscreen=""></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124500.97710844736!2d80.15431955698676!3d12.800857150597004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5250847d3353d7%3A0x6a585af1f362dadb!2sHindustan+Institute+of+Technology+%26+Science!5e0!3m2!1sen!2sin!4v1476586283505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 			</div>
 			<div class="col-md-4 top-footer1">
 				<h2>Newsletter</h2>
@@ -356,16 +356,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-bottom-cate cate-bottom">
 					<h6>Our Address</h6>
 					<ul>
-						<li>Aliquam metus  dui. </li>
-						<li>orci, ornareidquet</li>
-						<li> ut,DUI.</li>
-						<li>nisi, dignissim</li>
-						<li>gravida at.</li>
-						<li class="phone">PH : 6985792466</li>
+						<li>1, Rajiv Gandhi Salai, Old Mahabalipuram Road, Padur, Kelambakam, Chennai, Tamil Nadu 603103</li>
+						<li class="phone">PH : 98416 46017</li>
 					</ul>
 				</div>
 				<div class="clearfix"> </div>
-				<p class="footer-class"> © 2015 Book Bay. All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+				<p class="footer-class"> © <?php echo Date("Y"); ?> Book Bay. All Rights Reserved | Maintained & Developed by <a href="http://hashinc.in/" target="_blank">Hash Include</a> </p>
 			</div>
 	</div>
 </div>
