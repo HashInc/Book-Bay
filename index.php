@@ -43,27 +43,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 <div class="header">
 	<div class="header-top">
 		<div class="container">
-		<div class="col-sm-4 world">
-					<ul >
-						<li>
-						<select class="in-drop">
-							  <option>English</option>
-							  <option>Japanese</option>
-							  <option>French</option>
-							</select></li>
-						<li><select class="in-drop1">
-							  <option>Dollar</option>
-							  <option>Euro</option>
-							  <option>Yen</option>
-							</select>
-						</li>
-					</ul>
-				</div>
+		
 				<div class="col-sm-4 logo">
 					<a href="index.php"><img src="images/logo.png" alt=""></a>	
 				</div>
 		
-			<div class="col-sm-4 header-left">		
+			<div class="col-sm-4 col-sm-offset-4 header-left">		
 					<p class="log"><a href="account.php"  >Login</a>
 						<span>or</span><a  href="account.php"  >Signup</a></p>
 					<div class="cart box_1">
@@ -88,122 +73,8 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 		 <div class="col-sm-8 h_menu4">
 				<ul class="memenu skyblue">
 					  <li class=" grid"><a  href="index.php">Home</a></li>	
-				      <li><a  href="#">Novels & Fictions</a>
-				      	<div class="mepanel">
-						<div class="row">
-							<div class="col1">
-								<div class="h_nav">
-									<h4>All Clothing</h4>
-									<ul>
-										<li><a href="products.php">Shirts</a></li>
-										<li><a href="products.php">Sports Wear</a></li>
-										<li><a href="products.php">Shorts</a></li>
-										<li><a href="products.php">Suits & Blazers</a></li>
-										<li><a href="products.php">Formal Shirts</a></li>
-										<li><a href="products.php">Sweatpants</a></li>
-										<li><a href="products.php">Swimwear</a></li>
-										<li><a href="products.php">Trousers & Chinos</a></li>
-										<li><a href="products.php">T-Shirts</a></li>
-										<li><a href="products.php">Underwear & Socks</a></li>
-										
-									</ul>	
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Footwear</h4>
-									<ul>
-										<li><a href="products.php">Formal Religion</a></li>
-										<li><a href="products.php">Boots</a></li>
-										<li><a href="products.php">Sports Religion</a></li>
-										<li><a href="products.php">Casual Religion</a></li>
-										<li><a href="products.php">Running Religion</a></li>
-										<li><a href="products.php">Sneakers</a></li>
-										<li><a href="products.php">Loafers</a></li>
-										<li><a href="products.php">Slippers</a></li>
-										<li><a href="products.php">Sandals</a></li>
-										<li><a href="products.php">Flip-flops</a></li>
-									
-									</ul>	
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Popular Brands</h4>
-									<ul>
-										<li><a href="products.php">Levis</a></li>
-										<li><a href="products.php">Persol</a></li>
-										<li><a href="products.php">Nike</a></li>
-										<li><a href="products.php">Edwin</a></li>
-										<li><a href="products.php">New Balance</a></li>
-										<li><a href="products.php">Jack & Jones</a></li>
-										<li><a href="products.php">Paul Smith</a></li>
-										<li><a href="products.php">Ray-Ban</a></li>
-										<li><a href="products.php">Wood Wood</a></li>
-									</ul>	
-								</div>												
-							</div>
-						  </div>
-						</div>
-					</li>
-				    <li class="grid"><a  href="#">	College </a>
-					  	<div class="mepanel">
-						<div class="row">
-							<div class="col1">
-								<div class="h_nav">
-									<h4>All Clothing</h4>
-									<ul>
-										<li><a href="products.php">Shirts & Tops</a></li>
-										<li><a href="products.php">Sports Wear</a></li>
-										<li><a href="products.php">Kurtas & Kurties</a></li>
-										<li><a href="products.php">Suits & Blazers</a></li>
-										<li><a href="products.php">Sarees</a></li>
-										<li><a href="products.php">Sweatpants</a></li>
-										<li><a href="products.php">Swimwear</a></li>
-										<li><a href="products.php">Night-Suits</a></li>
-										<li><a href="products.php">T-Shirts</a></li>
-										<li><a href="products.php">Jeans</a></li>
-										
-									</ul>	
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Footwear</h4>
-									<ul>
-										<li><a href="products.php">Heels</a></li>
-										<li><a href="products.php">Flats</a></li>
-										<li><a href="products.php">Sports Religion</a></li>
-										<li><a href="products.php">Casual Religion</a></li>
-										<li><a href="products.php">Running Religion</a></li>
-										<li><a href="products.php">Wedges</a></li>
-										<li><a href="products.php">Boots</a></li>
-										<li><a href="products.php">Pumps</a></li>
-										<li><a href="products.php">Slippers</a></li>
-										<li><a href="products.php">Flip-flops</a></li>
-									
-									</ul>
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Popular Brands</h4>
-									<ul>
-										<li><a href="products.php">Levis</a></li>
-										<li><a href="products.php">Persol</a></li>
-										<li><a href="products.php">Nike</a></li>
-										<li><a href="products.php">Edwin</a></li>
-										<li><a href="products.php">New Balance</a></li>
-										<li><a href="products.php">Jack & Jones</a></li>
-										<li><a href="products.php">Paul Smith</a></li>
-										<li><a href="products.php">Ray-Ban</a></li>
-										<li><a href="products.php">Wood Wood</a></li>
-									</ul>	
-								</div>												
-							</div>
-						  </div>
-						</div>
-			    </li>
+				      <li><a  href="#">Novels & Fictions</a></li>
+				    <li class="grid"><a  href="#">	College </a></li>
 				<li><a  href="typo.php">School</a></li>				
 				<li><a class="color6" href="contact.php">Other</a></li>
 			  </ul> 
@@ -417,54 +288,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="clearfix"> </div>	
 		</div>	
 	</div>
-	<div class="footer-bottom">
-		<div class="container">
-				<div class="col-sm-3 footer-bottom-cate">
-					<h6>Categories</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li><a href="#">Dignissim neque</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						
-					</ul>
-				</div>
-				<div class="col-sm-3 footer-bottom-cate">
-					<h6>Feature Projects</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li><a href="#">Dignissim neque</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						
-					</ul>
-				</div>
-				<div class="col-sm-3 footer-bottom-cate">
-					<h6>Top Brands</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li><a href="#">Dignissim neque</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Ultrices id du</a></li>
-						<li><a href="#">Commodo sit</a></li>
-						
-					</ul>
-				</div>
-				<div class="col-sm-3 footer-bottom-cate cate-bottom">
-					<h6>Our Address</h6>
-					<ul>
-						<li>1, Rajiv Gandhi Salai, Old Mahabalipuram Road, Padur, Kelambakam, Chennai, Tamil Nadu 603103</li>
-						<li class="phone">PH : 98416 46017</li>
-					</ul>
-				</div>
-				<div class="clearfix"> </div>
-				<p class="footer-class"> © <?php echo Date("Y"); ?> Book Bay. All Rights Reserved | Maintained & Developed by <a href="http://hashinc.in/" target="_blank">Hash Include</a> </p>
-			</div>
-	</div>
+	<?php include "footer.php" ?>
 </div>
 
 <!--//footer-->

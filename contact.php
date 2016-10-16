@@ -316,54 +316,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="clearfix"> </div>	
 		</div>	
 	</div>
-	<div class="footer-bottom">
-		<div class="container">
-				<div class="col-md-3 footer-bottom-cate">
-					<h6>Categories</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li><a href="#">Dignissim neque</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						
-					</ul>
-				</div>
-				<div class="col-md-3 footer-bottom-cate">
-					<h6>Feature Projects</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li><a href="#">Dignissim neque</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						
-					</ul>
-				</div>
-				<div class="col-md-3 footer-bottom-cate">
-					<h6>Top Brands</h6>
-					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li><a href="#">Dignissim neque</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Ultrices id du</a></li>
-						<li><a href="#">Commodo sit</a></li>
-						
-					</ul>
-				</div>
-				<div class="col-md-3 footer-bottom-cate cate-bottom">
-					<h6>Our Address</h6>
-					<ul>
-						<li>1, Rajiv Gandhi Salai, Old Mahabalipuram Road, Padur, Kelambakam, Chennai, Tamil Nadu 603103</li>
-						<li class="phone">PH : 98416 46017</li>
-					</ul>
-				</div>
-				<div class="clearfix"> </div>
-				<p class="footer-class"> © <?php echo Date("Y"); ?> Book Bay. All Rights Reserved | Maintained & Developed by <a href="http://hashinc.in/" target="_blank">Hash Include</a> </p>
-			</div>
-	</div>
+	<?php include "footer.php" ?>
 </div>
 
 <!--//footer-->
