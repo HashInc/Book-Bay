@@ -307,14 +307,15 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="clearfix"> </div>	
 		</div>	
 	</div>
+	<?php include "footer.php" ?>
 	<div class="footer-bottom">
 		<div class="container">
 				<div class="col-md-3 footer-bottom-cate">
 					<h6>Categories</h6>
 					<ul>
-						<li><a href="#">Curabitur sapien</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
+						<li><a href="#">Novel</a></li>
+						<li><a href="#">School</a></li>
+						<li><a href="#">College</a></li>
 						<li><a href="#">Dignissim neque</a></li>
 						<li><a href="#">Ornared id aliquet</a></li>
 						

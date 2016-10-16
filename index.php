@@ -278,7 +278,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 <div class="content">
 	<div class="container">
 		<div class="content-top">
-			<h1>Recent Products</h1>
+			<h1>Recent Books</h1>
 			<div class="content-top1">
 				<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">

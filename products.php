@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Book Bay A Ecommerce Category Flat Bootstarp Resposive Website Template | Products :: w3layouts</title>
+<title>Book Bay A Ecommerce Category Flat Bootstarp Resposive Website Template | Books :: w3layouts</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -238,7 +238,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 <!--content-->
 <div class="products">
 	<div class="container">
-		<h1>Products</h1>
+		<h1>Books</h1>
 		<div class="col-md-9">
 			<div class="content-top1">
 				<div class="col-md-4 col-md3">
