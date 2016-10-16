@@ -1,4 +1,4 @@
-<!--A Design by W3layouts 
+<!--A Developed & Maintained by <a href="http://www.hashinc.in">Hash Include</a> 
 Author: W3layout
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
