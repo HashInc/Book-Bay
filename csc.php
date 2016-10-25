@@ -104,15 +104,15 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 		<div class="flexslider">
 			  <ul class="slides">
 			    <li data-thumb="images/pi.png">
-			        <div class="thumb-image"> <img src="images/pi.png" data-imagezoom="true" class="img-responsive"> </div>
+			        <div class="thumb-image"> <img src="images/pr2.jpg" data-imagezoom="true" class="img-responsive"> </div>
 			    </li>
 			  </ul>
 		</div>
 	</div>	
 <div class="col-md-7 single-top-in">
 						<div class="single-para simpleCart_shelfItem">
-							<h1>Linux Programming</h1>
-							<p>By Wrox Publishers</p>
+							<h1>Computer Science</h1>
+							<p>Allan B. Tucker</p>
 							<div class="star-on">
 								<ul>
 									<li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
@@ -128,7 +128,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 							<div class="clearfix"> </div>
 							</div>
 							
-								<label  class="add-to item_price">Rs.32.8</label>
+								<label  class="add-to item_price">Rs.40</label>
 							
 							<div class="available">
 								<h6>Available Options :</h6>

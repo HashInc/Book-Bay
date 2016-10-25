@@ -15,12 +15,12 @@
 					<h6>Top Authors</h6>
 					<ul>
 						<li><a href="#">Agatha Christie</a></li>
-						<li><a href="#">Dignissim purus</a></li>
-						<li><a href="#">Tempus pretium</a></li>
-						<li><a href="#">Dignissim neque</a></li>
-						<li><a href="#">Ornared id aliquet</a></li>
-						<li><a href="#">Ultrices id du</a></li>
-						<li><a href="#">Commodo sit</a></li>
+						<li><a href="#">Sidney Sheldon</a></li>
+						<li><a href="#">J K Rowling</a></li>
+						<li><a href="#">Stephen King</a></li>
+						<li><a href="#">Alex Marwood</a></li>
+						<li><a href="#">Chand</a></li>
+						<li><a href="#">Dan Brown</a></li>
 						
 					</ul>
 				</div>
