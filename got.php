@@ -286,7 +286,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 							<li><a href="#">Fiction</a></li>
 							<li><a href="#">College</a></li>
 							<li><a href="#">Relgion</a></li>
-							<li><a href="#">Technology</a></li>
+							<li><a href="#">Tech</a></li>
 						<div class="clearfix"> </div>
 						</ul>
 				</div>					
