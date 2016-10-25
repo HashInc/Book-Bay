@@ -103,22 +103,16 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 	<div class="col-md-5 grid">		
 		<div class="flexslider">
 			  <ul class="slides">
-			    <li data-thumb="images/si.jpg">
-			        <div class="thumb-image"> <img src="images/si.jpg" data-imagezoom="true" class="img-responsive"> </div>
+			    <li data-thumb="images/pi.png">
+			        <div class="thumb-image"> <img src="images/pi.png" data-imagezoom="true" class="img-responsive"> </div>
 			    </li>
-			    <li data-thumb="images/si1.jpg">
-			         <div class="thumb-image"> <img src="images/si1.jpg" data-imagezoom="true" class="img-responsive"> </div>
-			    </li>
-			    <li data-thumb="images/si2.jpg">
-			       <div class="thumb-image"> <img src="images/si2.jpg" data-imagezoom="true" class="img-responsive"> </div>
-			    </li> 
 			  </ul>
 		</div>
 	</div>	
 <div class="col-md-7 single-top-in">
 						<div class="single-para simpleCart_shelfItem">
-							<h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h1>
-							<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+							<h1>Linux Programming</h1>
+							<p>By Wrox Publishers</p>
 							<div class="star-on">
 								<ul>
 									<li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
@@ -134,23 +128,18 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 							<div class="clearfix"> </div>
 							</div>
 							
-								<label  class="add-to item_price">$32.8</label>
+								<label  class="add-to item_price">Rs.32.8</label>
 							
 							<div class="available">
 								<h6>Available Options :</h6>
 								<ul>
 									
-								<li>Size:<select>
-									<option>Large</option>
-									<option>Medium</option>
-									<option>small</option>
-									<option>Large</option>
-									<option>small</option>
-								</select></li>
 								<li>Cost:
 										<select>
 										<option>U.S.Dollar</option>
-										<option>Euro</option>
+										<option>Indian Rupee</option>
+                                        <option>Euro</option>
+                                        <option>Pounds</option>
 									</select></li>
 							</ul>
 						</div>
@@ -161,12 +150,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="content-top1">
 				<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="Quantum_series.php">
 							<img class="img-responsive" src="images/pi6.png" alt="" />
 						</a>
-						<h3><a href="single.php">Jeans</a></h3>
+						<h3><a href="Quantum_series.php">Quantum Series</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -174,12 +163,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="Buddhism.php">
 							<img class="img-responsive" src="images/pi7.png" alt="" />
 						</a>
-						<h3><a href="single.php">Tops</a></h3>
+						<h3><a href="Buddhism.php">Buddhism</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -188,12 +177,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
-							<img class="img-responsive" src="images/pi.png" alt="" />
+						<a href="lotr.php">
+							<img class="img-responsive" src="images/pr3.jpg" alt="" />
 						</a>
-						<h3><a href="single.php">Tops</a></h3>
+						<h3><a href="lotr.php">Lord of the rings</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -210,42 +199,15 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						<h3 class="cate">Categories</h3>
 							 <ul class="menu-drop">
 							<li class="item1"><a href="#">Novels & Fictions </a>
-								<ul class="cute">
-									<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-									<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-									<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
-								</ul>
 							</li>
 							<li class="item2"><a href="#">College  </a>
-								<ul class="cute">
-									<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-									<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-									<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
-								</ul>
 							</li>
 							<li class="item3"><a href="#">Kids</a>
-								<ul class="cute">
-									<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-									<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-									<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-								</ul>
 							</li>
 							<li class="item4"><a href="#">others</a>
-								<ul class="cute">
-									<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-									<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-									<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-								</ul>
 							</li>
 									
-							<li class="item4"><a href="#">Religion</a>
-								<ul class="cute">
-									<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-									<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-									<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
-								</ul>
-							</li>
-						</ul>
+							<li class="item4"><a href="#">Religion</a></li>
 					</div>
 				<!--initiate accordion-->
 						<script type="text/javascript">
@@ -277,7 +239,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						</div>
 						<div class=" fashion-grid1">
 							<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
-							<span class=" price-in1"> $40.00</span>
+							<span class=" price-in1"> Rs.40.00</span>
 						</div>	
 						<div class="clearfix"> </div>
 					</div>
@@ -287,7 +249,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						</div>
 						<div class=" fashion-grid1">
 							<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
-							<span class=" price-in1"> $40.00</span>
+							<span class=" price-in1"> Rs.40.00</span>
 						</div>	
 						<div class="clearfix"> </div>
 					</div>
@@ -297,7 +259,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						</div>
 						<div class=" fashion-grid1">
 							<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
-							<span class=" price-in1"> $40.00</span>
+							<span class=" price-in1"> Rs.40.00</span>
 						</div>	
 						<div class="clearfix"> </div>
 					</div>	
@@ -307,7 +269,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						</div>
 						<div class=" fashion-grid1">
 							<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
-							<span class=" price-in1"> $40.00</span>
+							<span class=" price-in1"> Rs.40.00</span>
 						</div>	
 						<div class="clearfix"> </div>
 					</div>		

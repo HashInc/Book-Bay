@@ -257,9 +257,9 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			</div>
 			<div class="clearfix"> </div></td>
 			<td class="check"><input type="text" value="1" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}"></td>		
-			<td>$100.00</td>
+			<td>Rs.100.00</td>
 			<td>FREE SHIPPING</td>
-			<td>$100.00</td>
+			<td>Rs.100.00</td>
 		  </tr>
 		  <tr>
 		  <td class="ring-in"><a href="single.php" class="at-in"><img src="images/ce1.jpg" class="img-responsive" alt=""></a>
@@ -269,9 +269,9 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			</div>
 			<div class="clearfix"> </div></td>
 			<td class="check"><input type="text" value="1" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}"></td>		
-			<td>$200.00</td>
+			<td>Rs.200.00</td>
 			<td>FREE SHIPPING</td>
-			<td>$200.00</td>
+			<td>Rs.200.00</td>
 		  </tr>
 		  <tr>
 		  <td class="ring-in"><a href="single.php" class="at-in"><img src="images/ce2.jpg" class="img-responsive" alt=""></a>
@@ -281,9 +281,9 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			</div>
 			<div class="clearfix"> </div></td>
 			<td class="check"><input type="text" value="1" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}"></td>		
-			<td>$150.00</td>
+			<td>Rs.150.00</td>
 			<td>FREE SHIPPING</td>
-			<td>$150.00</td>
+			<td>Rs.150.00</td>
 		  </tr>
 	</table>
 	<a href="#" class=" to-buy">PROCEED TO BUY</a>

@@ -1,9 +1,3 @@
-<!--A Developed & Maintained by <a href="http://www.hashinc.in">Hash Include</a> 
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html>
 <head>
@@ -152,7 +146,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						</a>
 						<h3><a href="Linux.php">Linux Programming</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -165,7 +159,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						</a>
 						<h3><a href="tggatsby.php">The Great Gatsby</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -174,12 +168,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="hotw.php">
 							<img class="img-responsive" src="images/pi4.png" alt="" />
 						</a>
-						<h3><a href="single.php">Handing Out To Wonderful</a></h3>
+						<h3><a href="hotw.php">Handing Out To Wonderful</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -188,12 +182,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="heartofr.php">
 							<img class="img-responsive" src="images/pi1.png" alt="" />
 						</a>
-						<h3><a href="single.php">The heart of religion</a></h3>
+						<h3><a href="heartofr.php">The heart of religion</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -205,12 +199,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="content-top1">
 				<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="java.php">
 							<img class="img-responsive" src="images/pi3.png" alt="" />
 						</a>
-						<h3><a href="single.php">Java Programming</a></h3>
+						<h3><a href="java.php">Java Programming</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -219,12 +213,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="cn.php">
 							<img class="img-responsive" src="images/pi5.png" alt="" />
 						</a>
-						<h3><a href="single.php">Computer Networks</a></h3>
+						<h3><a href="cn.php">Computer Networks</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -233,12 +227,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="quantum_series.php">
 							<img class="img-responsive" src="images/pi6.png" alt="" />
 						</a>
 						<h3><a href="Quantum_series.php">Quantum Series</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -247,12 +241,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="Buddhism.php">
 							<img class="img-responsive" src="images/pi7.png" alt="" />
 						</a>
 						<h3><a href="Buddhism.php">Buddhism</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">Rs.300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
