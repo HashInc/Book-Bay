@@ -119,10 +119,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 </div>
 <!--banner-->
 <div class="banner">
-	<div class="col-sm-3 banner-mat">
-		<img class="img-responsive"	src="images/ba1.jpg" alt="">
-	</div>
-	<div class="col-sm-6 matter-banner">
+	<div class="col-sm-4 col-sm-offset-4 matter-banner">
 	 	<div class="slider">
 	    	<div class="callbacks_container">
 	      		<ul class="rslides" id="slider">
@@ -139,9 +136,6 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 	 	 	</div>
 		</div>
 	</div>
-	<div class="col-sm-3 banner-mat">
-		<img class="img-responsive" src="images/ba.jpg" alt="">
-	</div>
 	<div class="clearfix"> </div>
 </div>
 <!--//banner-->
@@ -153,10 +147,10 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="content-top1">
 				<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="linux.php">
 							<img class="img-responsive" src="images/pi.png" alt="" />
 						</a>
-						<h3><a href="single.php">Tops</a></h3>
+						<h3><a href="Linux.php">Linux Programming</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -166,10 +160,10 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
+						<a href="tggatsby.php">
 							<img class="img-responsive" src="images/pi2.png" alt="" />
 						</a>
-						<h3><a href="single.php">T-Shirt</a></h3>
+						<h3><a href="tggatsby.php">The Great Gatsby</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -183,7 +177,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						<a href="single.php">
 							<img class="img-responsive" src="images/pi4.png" alt="" />
 						</a>
-						<h3><a href="single.php">Shirt</a></h3>
+						<h3><a href="single.php">Handing Out To Wonderful</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -197,7 +191,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						<a href="single.php">
 							<img class="img-responsive" src="images/pi1.png" alt="" />
 						</a>
-						<h3><a href="single.php">Tops</a></h3>
+						<h3><a href="single.php">The heart of religion</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -214,7 +208,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						<a href="single.php">
 							<img class="img-responsive" src="images/pi3.png" alt="" />
 						</a>
-						<h3><a href="single.php">Shirt</a></h3>
+						<h3><a href="single.php">Java Programming</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -228,7 +222,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						<a href="single.php">
 							<img class="img-responsive" src="images/pi5.png" alt="" />
 						</a>
-						<h3><a href="single.php">T-Shirt</a></h3>
+						<h3><a href="single.php">Computer Networks</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -242,7 +236,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						<a href="single.php">
 							<img class="img-responsive" src="images/pi6.png" alt="" />
 						</a>
-						<h3><a href="single.php">Jeans</a></h3>
+						<h3><a href="Quantum_series.php">Quantum Series</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -256,7 +250,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						<a href="single.php">
 							<img class="img-responsive" src="images/pi7.png" alt="" />
 						</a>
-						<h3><a href="single.php">Tops</a></h3>
+						<h3><a href="Buddhism.php">Buddhism</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
