@@ -260,6 +260,24 @@ button::-moz-focus-inner {
 	font-size:1.3em;
 	color:#fff;	
 }
+.login input[type="email"] {
+	outline: none;
+	padding:6px ;
+	background: none;
+	width: 93%;
+	border: none;
+	font-size:1.3em;
+	color:#fff;	
+}
+.login input[type="password"] {
+	outline: none;
+	padding:6px ;
+	background: none;
+	width: 93%;
+	border: none;
+	font-size:1.3em;
+	color:#fff;	
+}
 .login input[type="submit"] {	
 	width: 26px;
 	height: 26px;

@@ -1,13 +1,7 @@
-<!--A Developed & Maintained by <a href="http://www.hashinc.in">Hash Include</a> 
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html>
 <head>
-<title>Book Bay A Ecommerce Category Flat Bootstarp Resposive Website Template | Register :: w3layouts</title>
+<title>Book Bay | The Online Book Store</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -26,33 +20,29 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 <script>$(document).ready(function(){$(".memenu").memenu();});</script>
 <script src="js/simpleCart.min.js"> </script>
 <!-- slide -->
+<script src="js/responsiveslides.min.js"></script>
+   <script>
+    $(function () {
+      $("#slider").responsiveSlides({
+      	auto: true,
+      	speed: 500,
+        namespace: "callbacks",
+        pager: true,
+      });
+    });
+  </script>
 </head>
 <body>
 <!--header-->
 <div class="header">
 	<div class="header-top">
 		<div class="container">
-		<div class="col-md-4 world">
-					<ul >
-						<li>
-						<select class="in-drop">
-							  <option>English</option>
-							  <option>Japanese</option>
-							  <option>French</option>
-							</select></li>
-						<li><select class="in-drop1">
-							  <option>Dollar</option>
-							  <option>Euro</option>
-							  <option>Yen</option>
-							</select>
-						</li>
-					</ul>
-				</div>
-				<div class="col-md-4 logo">
+		
+				<div class="col-sm-4 logo">
 					<a href="index.php"><img src="images/logo.png" alt=""></a>	
 				</div>
 		
-			<div class="col-md-4 header-left">		
+			<div class="col-sm-4 col-sm-offset-4 header-left">		
 					<p class="log"><a href="account.php"  >Login</a>
 						<span>or</span><a  href="account.php"  >Signup</a></p>
 					<div class="cart box_1">
@@ -71,133 +61,19 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 		</div>
 		<div class="container">
 			<div class="head-top">
-				<div class="col-md-2 number">
+				<div class="col-sm-2 number">
 					<span><i class="glyphicon glyphicon-phone"></i>+91 9176 156512</span>
 				</div>
-		  <div class="col-md-8 h_menu4">
+		 <div class="col-sm-8 h_menu4">
 				<ul class="memenu skyblue">
 					  <li class=" grid"><a  href="index.php">Home</a></li>	
-				      <li><a  href="#">Novels & Fictions</a>
-				      	<div class="mepanel">
-						<div class="row">
-							<div class="col1">
-								<div class="h_nav">
-									<h4>All Clothing</h4>
-									<ul>
-										<li><a href="products.php">Shirts</a></li>
-										<li><a href="products.php">Sports Wear</a></li>
-										<li><a href="products.php">Shorts</a></li>
-										<li><a href="products.php">Suits & Blazers</a></li>
-										<li><a href="products.php">Formal Shirts</a></li>
-										<li><a href="products.php">Sweatpants</a></li>
-										<li><a href="products.php">Swimwear</a></li>
-										<li><a href="products.php">Trousers & Chinos</a></li>
-										<li><a href="products.php">T-Shirts</a></li>
-										<li><a href="products.php">Underwear & Socks</a></li>
-										
-									</ul>	
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Footwear</h4>
-									<ul>
-										<li><a href="products.php">Formal Religion</a></li>
-										<li><a href="products.php">Boots</a></li>
-										<li><a href="products.php">Sports Religion</a></li>
-										<li><a href="products.php">Casual Religion</a></li>
-										<li><a href="products.php">Running Religion</a></li>
-										<li><a href="products.php">Sneakers</a></li>
-										<li><a href="products.php">Loafers</a></li>
-										<li><a href="products.php">Slippers</a></li>
-										<li><a href="products.php">Sandals</a></li>
-										<li><a href="products.php">Flip-flops</a></li>
-									
-									</ul>	
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Popular Brands</h4>
-									<ul>
-										<li><a href="products.php">Levis</a></li>
-										<li><a href="products.php">Persol</a></li>
-										<li><a href="products.php">Nike</a></li>
-										<li><a href="products.php">Edwin</a></li>
-										<li><a href="products.php">New Balance</a></li>
-										<li><a href="products.php">Jack & Jones</a></li>
-										<li><a href="products.php">Paul Smith</a></li>
-										<li><a href="products.php">Ray-Ban</a></li>
-										<li><a href="products.php">Wood Wood</a></li>
-									</ul>	
-								</div>												
-							</div>
-						  </div>
-						</div>
-					</li>
-				    <li class="grid"><a  href="#">	College </a>
-					  	<div class="mepanel">
-						<div class="row">
-							<div class="col1">
-								<div class="h_nav">
-									<h4>All Clothing</h4>
-									<ul>
-										<li><a href="products.php">Shirts & Tops</a></li>
-										<li><a href="products.php">Sports Wear</a></li>
-										<li><a href="products.php">Kurtas & Kurties</a></li>
-										<li><a href="products.php">Suits & Blazers</a></li>
-										<li><a href="products.php">Sarees</a></li>
-										<li><a href="products.php">Sweatpants</a></li>
-										<li><a href="products.php">Swimwear</a></li>
-										<li><a href="products.php">Night-Suits</a></li>
-										<li><a href="products.php">T-Shirts</a></li>
-										<li><a href="products.php">Jeans</a></li>
-										
-									</ul>	
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Footwear</h4>
-									<ul>
-										<li><a href="products.php">Heels</a></li>
-										<li><a href="products.php">Flats</a></li>
-										<li><a href="products.php">Sports Religion</a></li>
-										<li><a href="products.php">Casual Religion</a></li>
-										<li><a href="products.php">Running Religion</a></li>
-										<li><a href="products.php">Wedges</a></li>
-										<li><a href="products.php">Boots</a></li>
-										<li><a href="products.php">Pumps</a></li>
-										<li><a href="products.php">Slippers</a></li>
-										<li><a href="products.php">Flip-flops</a></li>
-									
-									</ul>
-								</div>							
-							</div>
-							<div class="col1">
-								<div class="h_nav">
-									<h4>Popular Brands</h4>
-									<ul>
-										<li><a href="products.php">Levis</a></li>
-										<li><a href="products.php">Persol</a></li>
-										<li><a href="products.php">Nike</a></li>
-										<li><a href="products.php">Edwin</a></li>
-										<li><a href="products.php">New Balance</a></li>
-										<li><a href="products.php">Jack & Jones</a></li>
-										<li><a href="products.php">Paul Smith</a></li>
-										<li><a href="products.php">Ray-Ban</a></li>
-										<li><a href="products.php">Wood Wood</a></li>
-									</ul>	
-								</div>												
-							</div>
-						  </div>
-						</div>
-			    </li>
+				      <li><a  href="novels.php">Novels & Fictions</a></li>
+				    <li class="grid"><a  href="college.php">College </a></li>
 				<li><a  href="school.php">School</a></li>				
 				<li><a class="color6" href="other.php">Other</a></li>
 			  </ul> 
 			</div>
-				<div class="col-md-2 search">		
+				<div class="col-sm-2 search">		
 			<a class="play-icon popup-with-zoom-anim" href="#small-dialog"><i class="glyphicon glyphicon-search"> </i> </a>
 		</div>
 		<div class="clearfix"> </div>
@@ -213,7 +89,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 							<input type="text" value="Type something..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">		
 						</div>
 						<p>	Shopping</p>
-					</div>				
+					</div>								
 				</div>
 				 <script>
 						$(document).ready(function() {
@@ -239,31 +115,23 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 <div class="container">
 	<div class="register">
 		<h1>Register</h1>
-		  	  <form> 
+		  	  <form action="register.php" method="POST"> 
 				 <div class="col-md-6  register-top-grid">
 					
 					<div class="mation">
-						<span>First Name</span>
-						<input type="text"> 
-					
-						<span>Last Name</span>
-						<input type="text"> 
+						<span>Full Name</span>
+						<input type="text" name="name"> 
 					 
 						 <span>Email Address</span>
-						 <input type="text"> 
+						 <input type="email" name="email"> 
 					</div>
-					 <div class="clearfix"> </div>
-					   <a class="news-letter" href="#">
-						 <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i> </i>Sign Up</label>
-					   </a>
-					 </div>
-				     <div class=" col-md-6 register-bottom-grid">
+				     <div class="col-md-6 register-bottom-grid">
 						   
-							<div class="mation">
+							<div style="margin-left:-15px;margin-top:-10px;" class="mation">
+								<span>Contact</span>
+								<input type="text" name="mob" style="width:450px;">
 								<span>Password</span>
-								<input type="text">
-								<span>Confirm Password</span>
-								<input type="text">
+								<input type="password" name="pass" style="width:350px;">
 							</div>
 					 </div>
 					 <div class="clearfix"> </div>
@@ -271,7 +139,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				
 				<div class="register-but">
 				   <form>
-					   <input type="submit" value="submit">
+					   <input type="submit" value="Register">
 					   <div class="clearfix"> </div>
 				   </form>
 				</div>
@@ -301,3 +169,36 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 <!--//footer-->
 </body>
 </html>
+
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "bookbay";
+$conn = new mysqli($servername, $username, $password, $dbname);
+if(!empty($_POST))
+{
+
+    $name = $_POST['name'] ;
+    $phone = $_POST['phone'];
+    $email = $_POST['email'];
+    $password = $_POST['password'];
+// Create connection
+// Check connection
+if ($conn->connect_error) {
+    echo "OOPS!, We have a problem with database server";
+} 
+
+$sql = "INSERT INTO register (name, phone, email, password)
+VALUES ('$name', '$phone', '$email','$email', '$password')";
+
+if ($conn->query($sql) === TRUE) {
+   header("Location:index.php");
+}
+else {
+    echo "Error: " . $sql . "<br>" . $conn->error;
+}
+
+$conn->close();
+}
+?>
