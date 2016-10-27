@@ -165,7 +165,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="don.php">
-							<img class="img-responsive" src="images/ce.jpg" alt="" />
+							<img class="img-responsive" src="images/ce.jpg" style="height:285px;" alt="" />
 						</a>
 						<h3><a href="don.php">Death On The Nile</a></h3>
 						<div class="price">
@@ -179,7 +179,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="si1.php">
-							<img class="img-responsive" src="images/si1.jpg" alt="" />
+							<img class="img-responsive" src="images/si1.jpg" style="height:282px;" alt="" />
 						</a>
 						<h3><a href="si1.php">Desired by shadow</a></h3>
 						<div class="price">
