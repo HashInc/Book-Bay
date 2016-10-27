@@ -142,7 +142,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="tggatsby.php">
-							<img class="img-responsive" src="images/pi2.png" alt="" />
+							<img class="img-responsive" src="images/pi2.png" style="height:256px;" alt="" />
 						</a>
 						<h3><a href="tggatsby.php">The Great Gatsby</a></h3>
 						<div class="price">
