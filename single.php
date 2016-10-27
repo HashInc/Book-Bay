@@ -68,9 +68,9 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				<ul class="memenu skyblue">
 					  <li class=" grid"><a  href="index.php">Home</a></li>	
 				      <li><a  href="novels.php">Novels & Fictions</a></li>
-				    <li class="grid"><a  href="#">	College </a></li>
-				<li><a  href="typo.php">School</a></li>				
-				<li><a class="color6" href="contact.php">Other</a></li>
+				    <li class="grid"><a  href="college.php">College </a></li>
+				<li><a  href="school.php">School</a></li>				
+				<li><a class="color6" href="other.php">Other</a></li>
 			  </ul> 
 			</div>
 				<div class="col-sm-2 search">		
@@ -162,7 +162,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi6.png" alt="" />
+							<img class="img-responsive" src="images/pi6.png" style="height:256px;" alt="" />
 						</a>
 						<h3><a href="single.php">Jeans</a></h3>
 						<div class="price">
@@ -175,7 +175,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi7.png" alt="" />
+							<img class="img-responsive" src="images/pi7.png" style="height:256px;" alt="" />
 						</a>
 						<h3><a href="single.php">Tops</a></h3>
 						<div class="price">

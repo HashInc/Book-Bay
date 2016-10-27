@@ -138,48 +138,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 	<div class="container">
 		<div class="content-top">
 			<h1>Recent Books</h1>
-			<div class="content-top1">
-				<div class="col-md-3 col-md2">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="linux.php">
-							<img class="img-responsive" src="images/pi.png" alt="" />
-						</a>
-						<h3><a href="Linux.php">Linux Programming</a></h3>
-						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-					</div>
-				</div>	
-			<div class="col-md-3 col-md2">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="tggatsby.php">
-							<img class="img-responsive" src="images/pi2.png" style="height:256px;" alt="" />
-						</a>
-						<h3><a href="tggatsby.php">The Great Gatsby</a></h3>
-						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-						
-					</div>
-				</div>	
-			<div class="col-md-3 col-md2">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="hotw.php">
-							<img class="img-responsive" src="images/pi4.png" style="height:256px;" alt="" />
-						</a>
-						<h3><a href="hotw.php">Handing Out To Wonderful</a></h3>
-						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-						
-					</div>
-				</div>	
+			<div class="content-top1">	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="heartofr.php">
@@ -194,55 +153,10 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						
 					</div>
 				</div>	
-			<div class="clearfix"> </div>
-			</div>	
-			<div class="content-top1">
-				<div class="col-md-3 col-md2">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="java.php">
-							<img class="img-responsive" src="images/pi3.png"  alt="" />
-						</a>
-						<h3><a href="java.php">Java Programming</a></h3>
-						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-						
-					</div>
-				</div>	
-			<div class="col-md-3 col-md2">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="cn.php">
-							<img class="img-responsive" src="images/pi5.png" style="height:260px;" alt="" />
-						</a>
-						<h3><a href="cn.php">Computer Networks</a></h3>
-						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-						
-					</div>
-				</div>	
-			<div class="col-md-3 col-md2">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="quantum_series.php">
-							<img class="img-responsive" src="images/pi6.png" style="height:256px;" alt="" />
-						</a>
-						<h3><a href="Quantum_series.php">Quantum Series</a></h3>
-						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-						
-					</div>
-				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="Buddhism.php">
-							<img class="img-responsive" src="images/pi7.png" style="height:256px;" alt="" />
+							<img class="img-responsive" src="images/pi7.png" style="height:305px;" alt="" />
 						</a>
 						<h3><a href="Buddhism.php">Buddhism</a></h3>
 						<div class="price">

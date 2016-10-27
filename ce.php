@@ -68,7 +68,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				<ul class="memenu skyblue">
 					  <li class=" grid"><a  href="index.php">Home</a></li>	
 				      <li><a  href="novels.php">Novels & Fictions</a></li>
-				    <li class="grid"><a  href="#">	College </a></li>
+				    <li class="grid"><a  href="college.php">College </a></li>
 				<li><a  href="#">School</a></li>				
 				<li><a class="color6" href="#">Other</a></li>
 			  </ul> 

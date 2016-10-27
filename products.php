@@ -193,8 +193,8 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						  </div>
 						</div>
 			    </li>
-				<li><a  href="typo.php">School</a></li>				
-				<li><a class="color6" href="contact.php">Other</a></li>
+				<li><a  href="school.php">School</a></li>				
+				<li><a class="color6" href="other.php">Other</a></li>
 			  </ul> 
 			</div>
 				<div class="col-md-2 search">		
@@ -289,7 +289,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi1.png" alt="" />
+							<img class="img-responsive" src="images/pi1.png" style="height:256px;" alt="" />
 						</a>
 						<h3><a href="single.php">Tops</a></h3>
 						<div class="price">
@@ -316,7 +316,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi5.png" alt="" />
+							<img class="img-responsive" src="images/pi5.png" style="height:260px;" alt="" />
 						</a>
 						<h3><a href="single.php">T-Shirt</a></h3>
 						<div class="price">
@@ -334,7 +334,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi6.png" alt="" />
+							<img class="img-responsive" src="images/pi6.png" style="height:256px;" alt="" />
 						</a>
 						<h3><a href="single.php">Jeans</a></h3>
 						<div class="price">
@@ -347,7 +347,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="col-md-4 col-md3">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi7.png" alt="" />
+							<img class="img-responsive" src="images/pi7.png" style="height:256px;" alt="" />
 						</a>
 						<h3><a href="single.php">Tops</a></h3>
 						<div class="price">

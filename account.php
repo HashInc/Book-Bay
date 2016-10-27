@@ -193,8 +193,8 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 						  </div>
 						</div>
 			    </li>
-				<li><a  href="typo.php">School</a></li>				
-				<li><a class="color6" href="contact.php">Other</a></li>
+				<li><a  href="school.php">School</a></li>				
+				<li><a class="color6" href="other.php">Other</a></li>
 			  </ul> 
 			</div>
 		<div class="col-md-2 search">		
