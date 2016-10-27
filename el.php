@@ -104,15 +104,15 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 		<div class="flexslider">
 			  <ul class="slides">
 			    <li data-thumb="images/pi.png">
-			        <div class="thumb-image"> <img src="images/pi09.jpg" data-imagezoom="true" class="img-responsive"> </div>
+			        <div class="thumb-image"> <img src="images/pi10.jpg" data-imagezoom="true" class="img-responsive"> </div>
 			    </li>
 			  </ul>
 		</div>
 	</div>	
 <div class="col-md-7 single-top-in">
 						<div class="single-para simpleCart_shelfItem">
-							<h1>Align Design</h1>
-							<p>By Nancy Mooney</p>
+							<h1>English Language</h1>
+							<p>By Unknown Author</p>
 							<div class="star-on">
 								<ul>
 									<li><a href="#"><i class="glyphicon glyphicon-star"> </i></a></li>
@@ -128,7 +128,7 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 							<div class="clearfix"> </div>
 							</div>
 							
-								<label  class="add-to item_price">Rs.280</label>
+								<label  class="add-to item_price">Rs.350</label>
 							
 							<div class="available">
 								<h6>Available Options :</h6>
