@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Book Bay A Ecommerce Category Flat Bootstarp Resposive Website Template | Home :: w3layouts</title>
+<title>Book Bay | The Online Book Store</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -141,28 +141,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 			<div class="content-top1">
 				<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="linux.php">
-							<img class="img-responsive" src="images/pi.png" alt="" />
+						<a href="sw.php">
+							<img class="img-responsive" src="images/ce1.jpg" style="height:260px;" alt="" />
 						</a>
-						<h3><a href="Linux.php">Linux Programming</a></h3>
+						<h3><a href="sw.php">School Workbook</a></h3>
 						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-					</div>
-				</div>	
-			<div class="clearfix"> </div>
-			</div>	
-			<div class="content-top1">
-				<div class="col-md-3 col-md2">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="java.php">
-							<img class="img-responsive" src="images/pi3.png" alt="" />
-						</a>
-						<h3><a href="java.php">Java Programming</a></h3>
-						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
+								<h5 class="item_price">Rs.190</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -171,12 +155,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="cn.php">
-							<img class="img-responsive" src="images/pi5.png" style="height:260px;" alt="" />
+						<a href="ad.php">
+							<img class="img-responsive" src="images/pi09.jpg" style="height:260px;" alt="" />
 						</a>
-						<h3><a href="cn.php">Computer Networks</a></h3>
+						<h3><a href="ad.php">Align Design</a></h3>
 						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
+								<h5 class="item_price">Rs.280</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -185,12 +169,12 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 				</div>	
 			<div class="col-md-3 col-md2">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="quantum_series.php">
-							<img class="img-responsive" src="images/pi6.png" style="height:256px;" alt="" />
+						<a href="el.php">
+							<img class="img-responsive" src="images/pi10.jpg" style="height:256px;" alt="" />
 						</a>
-						<h3><a href="Quantum_series.php">Quantum Series</a></h3>
+						<h3><a href="el.php">English Language</a></h3>
 						<div class="price">
-								<h5 class="item_price">Rs.300</h5>
+								<h5 class="item_price">Rs.350</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
