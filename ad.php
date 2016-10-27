@@ -104,14 +104,14 @@ Smartphone Compatible web template, free webnovels for Nokia, Samsung, LG, SonyE
 		<div class="flexslider">
 			  <ul class="slides">
 			    <li data-thumb="images/pi.png">
-			        <div class="thumb-image"> <img src="images/ce1.jpg" data-imagezoom="true" class="img-responsive"> </div>
+			        <div class="thumb-image"> <img src="images/pi09.jpg" data-imagezoom="true" class="img-responsive"> </div>
 			    </li>
 			  </ul>
 		</div>
 	</div>	
 <div class="col-md-7 single-top-in">
 						<div class="single-para simpleCart_shelfItem">
-							<h1>School Workbook</h1>
+							<h1>Align Design</h1>
 							<p>By Unknown author</p>
 							<div class="star-on">
 								<ul>
